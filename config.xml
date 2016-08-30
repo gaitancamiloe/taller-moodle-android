@@ -12,7 +12,7 @@
     </description>
 
     <author href="http://www.uniagrariavirtual.edu.co" email="gaitan.camilo@uniagraria.edu.co">
-        Aulas Virtuales Uniagraria
+        Ing. Camilo Gaitan - UDEV
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
